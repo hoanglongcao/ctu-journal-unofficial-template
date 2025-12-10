@@ -1,6 +1,8 @@
 # CTU JoISD - Overleaf template
 
-This is the unofficial CTU JoISD article template in Overleaf.
+This is the unofficial CTU Journal of Innovation and Sustainable Development (JoISD) article template in Overleaf.
+
+Đây là mẫu bản thảo không chính thức của [Tạp chí Khoa học của Đại học Cần Thơ, bản tiếng Anh](https://ctujs.ctu.edu.vn/index.php/ctujs/index).
 
 > **Important:** You must use `lualatex` or `xelatex` to compile this project. Other compilers like `pdflatex` may not work correctly.
 
